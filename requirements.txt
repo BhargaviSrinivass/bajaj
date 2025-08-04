@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-openai
-pinecone
+pinecone-client
+sentence-transformers
+transformers
+torch
 pdfplumber
-python-docx
 python-dotenv
-requests
