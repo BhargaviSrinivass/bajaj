@@ -1,0 +1,11 @@
+__pycache__/
+.env
+*.pdf
+data/
+.git
+.ipynb_checkpoints
+*.pt
+*.bin
+*.zip
+*.tar
+*.gz
